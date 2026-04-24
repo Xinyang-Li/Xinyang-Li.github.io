@@ -420,6 +420,7 @@ underline {
 		}
 		
 		.references p {
+		  color: #000;
 		  margin: 0 0 10px 0;
 		  padding-left: 2.4em;
 		  text-indent: -2.4em;
